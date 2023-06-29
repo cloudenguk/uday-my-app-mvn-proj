@@ -6,7 +6,8 @@
 
     <groupId>com.example</groupId>
     <artifactId>maven-java-home-webapp</artifactId>
-    <version>1.0.0</version>
+    <version>0.0.9</version>
+    <name>uday-my-app-mvn-proj</name>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -27,7 +28,7 @@
                     <source>1.8</source>
                     <target>1.8</target>
                 </configuration>
-            </plugin>
+           </plugin>
 
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
